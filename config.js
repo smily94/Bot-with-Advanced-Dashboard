@@ -1,6 +1,6 @@
 module.exports = {
  "verification": "",
- "description": "",
+ "description": "just a simple test bot",
  "domain": "", // This Domain need to be without https:// or http:// (eg: hydrabot.fun not https://hydrabot.fun)
  "google_analitics": "", 
  "token": "",
